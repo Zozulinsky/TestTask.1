@@ -1,0 +1,36 @@
+<resources>
+    /* Ресурсы интерфейса */
+    <string name="app_name">Image Processing</string>
+    <string name="nameBtnRotate">Повернуть</string>
+    <string name="nameBtnInvertColors">В черно-белое</string>
+    <string name="nameBtnMirror">Зеркальное отображение</string>
+    <string name="textLabelResults">Результаты обработки</string>
+    <string name="exif">Просмотр EXIF</string>
+
+    /* Ресурсы диалоговых окон */
+    /*Диалог выбора источника*/
+    <string name="takePhoto">Сделать фото</string>
+    <string name="takeFromGallery">Выбрать из галереи</string>
+    <string name="downloadFromURL">Загрузить из Интернета</string>
+    /*Диалог загрузки по URL*/
+    <string name="titleDialogOfInputURL">Введите URL картинки</string>
+    <string name="Ok">Загрузить</string>
+    <string name="Cancel">Отмена</string>
+    /*Всплывающие окна*/
+    <string name="wrongURL">Введен неверный URL</string>
+    <string name="errorSetImage">Не удалось установить картинку</string>
+    <string name="processingDownload">Идёт загрузка. Пожалуйста, подождите.</string>
+    /*Диалог действий над обработанным изображением*/
+    <string name="titleDialogChooseAction">Что сделать с картинкой</string>
+    <string name="delete">Удалить</string>
+    <string name="chooseAsSource">Выбрать источником</string>
+    /*Диалог EXIF*/
+    <string name="exiftags">EXIF информация</string>
+    <string name="changeInfoAboutCamera">Изменить и сохранить</string>
+    <string name="imageNoHaveExif">Изображение без EXIF-информации.\nВыберите изображение из галереи.</string>
+    <string name="date">Дата: </string>
+    <string name="resolution">Разрешение: </string>
+    <string name="createWith">Снимок создан: </string>
+    <string name="unknownModel">Неизвестный источник</string>
+
+</resources>
